@@ -2,10 +2,10 @@
 setlocal enabledelayedexpansion
 
 REM Set the directory containing the video files.
-set "VIDEO_DIRECTORY=D:\Tiktok\[Lives]"
+set "VIDEO_DIRECTORY=[your directory goes here]"
 
 REM Set the FFmpeg path.
-set "FFMPEG_PATH=D:\ffmpeg-2023-04-26-git-e3143703e9-full_build\bin\ffmpeg.exe"
+set "FFMPEG_PATH=[your directory goes here]"
 
 REM Set the file extensions you want to process.
 set "EXTENSIONS=*.mp4 *.mkv *.avi *.mov *.flv"
