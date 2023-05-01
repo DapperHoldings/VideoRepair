@@ -8,7 +8,7 @@ set "VIDEO_DIRECTORY=[your directory goes here]"
 
 set "FFMPEG_PATH=[your directory goes here]"
 
-Then save it as .bat file.
+Then save it as .bat file. Then double left click on it.
 
 
 
